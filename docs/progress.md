@@ -5,11 +5,11 @@
 保存 .blend 主檔與重建腳本，確保後續可直接在 Blender 開啟修改。
 
 ## 計畫 milestone
-- [ ] M1：repo 目錄結構 + git init + .gitignore
-- [ ] M2：複製 .blend + 進度文件，初始 commit
-- [ ] M3：匯出 FBX / glTF 備用格式
-- [ ] M4：產生 rebuild_scene.py（重建腳本）
-- [ ] M5：README + 最終 commit
+- [x] M1：repo 目錄結構 + git init + .gitignore
+- [x] M2：複製 .blend + 進度文件，初始 commit
+- [x] M3：匯出 FBX / glTF 備用格式
+- [x] M4：產生 rebuild_scene.py（重建腳本）
+- [x] M5：README + 最終 commit
 
 ## 進度日誌
 
